@@ -1,3 +1,19 @@
+## How to Run this project
+
+Go into the folder named backend and run that first by hit the below command on the terminal
+
+### `nodemon server`
+
+Once the server file (mongodb) is fired up, come back to this directory, open a terminal and run
+
+### `npm start`
+
+You will now see the browser with MERN- Stack todo web page
+
+You can add a new Todo activity and view all on list Todo
+
+## More information on React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +82,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-"# MERN - Stack " 
+"# MERN - Stack "
