@@ -14,7 +14,7 @@ function App() {
       <div className="container">
         <nav className = "navbar navbar-expand-lg navbar-light bg-light">
             <a className = "navbar-brand" href = "" target="_blank">
-              <img src = {logo} width = "30" height = "30" alt = "CodingTheSmartWay.com" />
+              <img src = {logo} width = "30" height = "30" alt = "" />
             </a>
             <Link to="/" className="navbar-brand"> MERN-Stack Todo App </Link>
             <div className = "collapse navbar-collapse">
